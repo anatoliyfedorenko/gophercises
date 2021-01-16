@@ -1,6 +1,6 @@
 # The Love of The Gophercises
 
-This is the repository that contains my solutions for [the exercise 1](https://github.com/gophercises) of the gophercises
+This is the repository that contains my solutions for [gophercises](https://github.com/gophercises)
 
 get it with 
 ```
